@@ -4,6 +4,7 @@ title: "Blog An toàn lao động"
 description: "Chia sẻ kiến thức, kinh nghiệm về an toàn và kỹ thuật."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
+url: "https://chienhse.vn"
 baseurl: /blog
 google_analytics: 'G-TR8LWBC5BL'
 disqus: ''
