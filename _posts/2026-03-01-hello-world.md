@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Let's test spoilers"
-author: sal
-categories: [ Jekyll, tutorial ]
+title:  "Bài viết đầu tiên"
+author: ChienHSE
+categories: [ ]
 image: assets/images/01.png
 featured: true
 hidden: true
